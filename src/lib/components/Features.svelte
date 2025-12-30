@@ -2,26 +2,26 @@
   <div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
     <div>
       <h2 class="text-4xl md:text-5xl font-medium tracking-tight leading-[1.1] max-w-md">
-        Making global money movement instant, open, and simple.
+        Built for luxury commerce and high-value transactions.
       </h2>
     </div>
     <div class="space-y-12">
       <div>
-        <h3 class="text-xl font-medium mb-3">Instant.</h3>
+        <h3 class="text-xl font-medium mb-3">Seamless.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          Move money in real time—across borders, networks, and platforms—with infrastructure built for always-on, global payments.
+          Accept crypto payments as easily as cards. QR-based checkout, instant conversion, automatic settlement. Your customers pay in digital assets, you receive euros.
         </p>
       </div>
       <div>
-        <h3 class="text-xl font-medium mb-3">Open.</h3>
+        <h3 class="text-xl font-medium mb-3">Secure.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          Built on the only decentralized and neutral network, Bitcoin, putting you in control. No middlemen. No gatekeepers. Just freedom to move value on your terms.
+          Full regulatory compliance with MiCA certification. Licensed financial partners handle all custody and conversion. Enterprise-grade security protecting every transaction.
         </p>
       </div>
       <div>
         <h3 class="text-xl font-medium mb-3">Simple.</h3>
         <p class="text-gray-600 leading-relaxed max-w-md">
-          Easy-to-integrate tools with compliance-ready features baked in—so you can build, scale, and stay focused on what matters.
+          One-time onboarding, transparent 1% transaction fee, direct settlement to your existing bank account. No crypto complexity, no volatility risk, no new infrastructure.
         </p>
       </div>
     </div>

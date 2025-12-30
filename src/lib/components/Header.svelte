@@ -7,22 +7,23 @@
     <!-- Logo -->
     <a href="/" class="flex items-center gap-2 text-2xl font-bold tracking-tight text-black">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="w-6 h-6">
-        <path d="M12 2L14.5 9.5H22L16 14L18.5 21.5L12 17L5.5 21.5L8 14L2 9.5H9.5L12 2Z" fill="black"/>
+        <circle cx="12" cy="12" r="9" stroke="black" stroke-width="2" fill="none"/>
+        <path d="M12 6 L12 12 L16 14" stroke="black" stroke-width="2" stroke-linecap="round"/>
       </svg>
-      lightspark
+      AURELIA
     </a>
 
     <!-- Nav Links -->
     <nav class="hidden md:flex items-center gap-8">
-      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Solutions</a>
-      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Industries</a>
+      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">For Merchants</a>
+      <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Use Cases</a>
       <a href="#" class="text-sm font-medium text-gray-600 hover:text-black transition-colors">Company</a>
     </nav>
 
     <!-- Right Actions -->
     <div class="flex items-center gap-6">
-      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">View Docs</a>
-      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">Log in</a>
+      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">Get Started</a>
+      <a href="#" class="hidden md:block text-sm font-medium text-gray-600 hover:text-black transition-colors">Merchant Portal</a>
       <a href="#" class="text-sm font-medium text-black hover:text-gray-600 transition-colors">Contact</a>
     </div>
   </div>
